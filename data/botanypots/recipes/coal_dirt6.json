@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "projecte:aeternalis_fuel_block"
+  },
+  "display": {
+    "block": "projecte:aeternalis_fuel_block"
+  },
+  "categories": [
+    "coal_ore"
+  ],
+  "growthModifier": 0.4
+}

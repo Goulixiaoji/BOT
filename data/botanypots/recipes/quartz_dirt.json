@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:nether_quartz_ore"
+  },
+  "display": {
+    "block": "minecraft:nether_quartz_ore"
+  },
+  "categories": [
+    "quartz_ore"
+  ],
+  "growthModifier": -0.65
+}

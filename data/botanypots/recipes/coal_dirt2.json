@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ore_tree:coal_tree_log"
+  },
+  "display": {
+    "block": "ore_tree:coal_tree_log"
+  },
+  "categories": [
+    "coal_ore"
+  ],
+  "growthModifier": 0
+}

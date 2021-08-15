@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "projecte:mobius_fuel_block"
+  },
+  "display": {
+    "block": "projecte:mobius_fuel_block"
+  },
+  "categories": [
+    "coal_ore"
+  ],
+  "growthModifier": 0.4
+}

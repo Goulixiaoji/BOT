@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ore_tree:diamond_tree_log"
+  },
+  "display": {
+    "block": "ore_tree:diamond_tree_log"
+  },
+  "categories": [
+    "diamond_ore"
+  ],
+  "growthModifier": 0
+}

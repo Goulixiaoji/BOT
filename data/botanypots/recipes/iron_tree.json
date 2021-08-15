@@ -1,0 +1,36 @@
+{
+	"type": "botanypots:crop",
+	"seed": {
+		"item": "ore_tree:iron_tree_sapling"
+	},
+	"categories": ["iron_ore"],
+	"growthTicks": 1450,
+	"display": {
+		"block": "ore_tree:iron_tree_sapling",
+		"properties": {}
+	},
+	"results": [{
+		"chance": 0.95,
+		"output": {
+			"item": "ore_tree:iron_tree_sapling"
+		},
+		"minRolls": 1,
+		"maxRolls": 2
+	},
+	{
+		"chance": 0.95,
+		"output": {
+			"item": "ore_tree:iron_tree_log"
+		},
+		"minRolls": 1,
+		"maxRolls": 1
+	},
+	{
+		"chance": 0.95,
+		"output": {
+			"item": "minecraft:stick"
+		},
+		"minRolls": 1,
+		"maxRolls": 2
+	}]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ore_tree:iron_tree_log"
+  },
+  "display": {
+    "block": "ore_tree:iron_tree_log"
+  },
+  "categories": [
+    "iron_ore"
+  ],
+  "growthModifier": 0
+}

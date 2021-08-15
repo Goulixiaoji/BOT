@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ore_tree:quartz_tree_log"
+  },
+  "display": {
+    "block": "ore_tree:quartz_tree_log"
+  },
+  "categories": [
+    "quartz_ore"
+  ],
+  "growthModifier": 0
+}

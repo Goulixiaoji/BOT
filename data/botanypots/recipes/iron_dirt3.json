@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:iron_block"
+  },
+  "display": {
+    "block": "minecraft:iron_block"
+  },
+  "categories": [
+    "iron_ore"
+  ],
+  "growthModifier": 0.25
+}

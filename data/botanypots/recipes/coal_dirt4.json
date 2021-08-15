@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "projecte:alchemical_coal_block"
+  },
+  "display": {
+    "block": "projecte:alchemical_coal_block"
+  },
+  "categories": [
+    "coal_ore"
+  ],
+  "growthModifier": 0.35
+}

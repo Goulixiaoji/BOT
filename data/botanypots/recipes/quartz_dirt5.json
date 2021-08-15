@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:quartz_slab"
+  },
+  "display": {
+    "block": "minecraft:quartz_slab"
+  },
+  "categories": [
+    "quartz_ore"
+  ],
+  "growthModifier": 0.125
+}

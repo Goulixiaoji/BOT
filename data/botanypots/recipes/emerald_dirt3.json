@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ore_tree:emerald_tree_log"
+  },
+  "display": {
+    "block": "ore_tree:emerald_tree_log"
+  },
+  "categories": [
+    "emerald_ore"
+  ],
+  "growthModifier": 0
+}
