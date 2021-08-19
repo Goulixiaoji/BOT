@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "cavesandcliffs:deepslate_iron_ore"
+  },
+  "display": {
+    "block": "cavesandcliffs:deepslate_iron_ore"
+  },
+  "categories": [
+    "iron_ore"
+  ],
+  "growthModifier": 0.1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "cavesandcliffs:raw_iron_block"
+  },
+  "display": {
+    "block": "cavesandcliffs:raw_iron_block"
+  },
+  "categories": [
+    "iron_ore"
+  ],
+  "growthModifier": 0.2
+}

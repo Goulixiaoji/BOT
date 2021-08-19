@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "cavesandcliffs:deepslate_redstone_ore"
+  },
+  "display": {
+    "block": "cavesandcliffs:deepslate_redstone_ore"
+  },
+  "categories": [
+    "redstone_ore"
+  ],
+  "growthModifier": 0.1
+}

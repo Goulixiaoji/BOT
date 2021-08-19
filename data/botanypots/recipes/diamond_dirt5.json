@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "cavesandcliffs:deepslate_diamond_ore"
+  },
+  "display": {
+    "block": "cavesandcliffs:deepslate_diamond_ore"
+  },
+  "categories": [
+    "diamond_ore"
+  ],
+  "growthModifier": 0.1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "cavesandcliffs:deepslate_coal_ore"
+  },
+  "display": {
+    "block": "cavesandcliffs:deepslate_coal_ore"
+  },
+  "categories": [
+    "coal_ore"
+  ],
+  "growthModifier": 0.1
+}

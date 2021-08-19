@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "cavesandcliffs:raw_gold_block"
+  },
+  "display": {
+    "block": "cavesandcliffs:raw_gold_block"
+  },
+  "categories": [
+    "gold_ore"
+  ],
+  "growthModifier": 0.2
+}
