@@ -1,0 +1,20 @@
+{
+	"type": "botanypots:crop",
+	"seed": {
+		"item": "metalbushesmod:xp_bush"
+	},
+	"categories": ["dirt"],
+	"growthTicks": 1800,
+	"display": {
+		"block": "metalbushesmod:xp_bush",
+		"properties": {}
+	},
+	"results": [{
+		"chance": 0.05,
+		"output": {
+			"item": "minecraft:experience_bottle"
+		},
+		"minRolls": 1,
+		"maxRolls": 1
+	}]
+}

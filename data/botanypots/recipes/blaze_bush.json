@@ -1,0 +1,20 @@
+{
+	"type": "botanypots:crop",
+	"seed": {
+		"item": "metalbushesmod:blaze_bush"
+	},
+	"categories": ["sand"],
+	"growthTicks": 1800,
+	"display": {
+		"block": "metalbushesmod:blaze_bush",
+		"properties": {}
+	},
+	"results": [{
+		"chance": 0.9,
+		"output": {
+			"item": "metalbushesmod:tiny_blaze_powder"
+		},
+		"minRolls": 1,
+		"maxRolls": 1
+	}]
+}
